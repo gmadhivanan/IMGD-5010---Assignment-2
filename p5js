@@ -1,0 +1,44 @@
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background("#008B8B");
+  strokeWeight(0)
+//body
+  fill("#B8F818")
+  rect(172, 230, 55, 60);
+  //face
+  fill("#FFA347")
+  circle(200,210,60)
+  //hat
+  fill("#B8F818")
+  quad(170,200,185,170,215,170,230,200)
+  //boots and belt and hair
+  fill("#E75F13")
+  //hair
+  quad(172,200,185,180,215,180,228,200)
+  //eyes
+  rect(206,205,7,10)
+  rect(186,205,7,10)
+  fill("#B8F818")
+  rect(207,204,5,6)
+  rect(187,204,5,6)
+  //mouth
+  fill("#E75F13")
+  rect(193,220,15,16)
+  //boots and belt
+  rect(205,290,20,10)
+  rect(176,290,20,10)
+  rect(172,270,55,5)
+  rect(192,265,15,15)
+  //arms
+  quad(172,255,180,230,170,190,160,190)
+  
+  
+  //triforce
+  fill("#FFA347")
+  triangle(170, 160, 200, 100, 230, 160)
+  fill("#E75F13")
+  
+}
