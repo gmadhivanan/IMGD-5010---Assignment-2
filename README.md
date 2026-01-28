@@ -21,10 +21,10 @@ To create the typical Link getting the Trifoce use the instructions as follows.
 ### Face
 * Add a tan circle were part of the lower segment is over the green rectangular body.
 ### Hat
-* Add a green trapezoid that overlaps the top of the tan circular head.
+* Add a green trapezoid (quad) that overlaps the top of the tan circular head.
 
 ### Hair
-* Add a darker brown trapezoid on top of the green hat trapezoid. This trapezoid should share the same bottom points as the hat trapezoid but be smaller overall.
+* Add a darker brown trapezoid (quad) on top of the green hat trapezoid. This trapezoid should share the same bottom points as the hat trapezoid but be smaller overall.
   
 ### Eyes
 * Add two narrow brown rectangles symmetrically spaced on the tan circular head
@@ -39,6 +39,8 @@ To create the typical Link getting the Trifoce use the instructions as follows.
 * Add a rectangle thats slightly wider than a square on the center of the thing brown rectangular belt
 
 ### Arms
+* Add two brown quadrilaterals that reach out from the top of the green body to just above the brown trapezoidal hair. The trapezoids should slightly overlap the tan circular head.
+* On top of each of the quadrilaterals add two tan squares as hands
 
 ### Triforce
-* Add a yellow equilateral triangle just above the green trapezoidal hat that reaches from one hand to the other hand
+* Add a tan equilateral triangle just above the green trapezoidal hat that reaches from one hand to the other hand
