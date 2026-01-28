@@ -8,28 +8,37 @@ The Nintendo Entertainment System (NES) is an 8-bit video game console. This aes
 ## Approximating using p5.js
 
 <br>
-  <img src="https://github.com/gmadhivanan/IMGD-5010---Assignment-2/blob/main/LinkTriforcep5js.png" width="250" height="200">
+  <img src="https://github.com/gmadhivanan/IMGD-5010---Assignment-2/blob/main/LinkTriforcep5js.png" width="230" height="200">
 The simple shapes in p5.js can be used to approximate the aesthetic of the original Legend of Zelda, and the colors can be duplicated using the eyedropper tool.
 To create the typical Link getting the Trifoce use the instructions as follows.
 
-## Body
+### Setup
+* Create a 400 by 400 panel that is the color of your choice
+* Remove the outline of all future shapes
 
-## Face
+### Body
+* Add a green rectangle slightly below the center of the screen
+### Face
+* Add a tan circle were part of the lower segment is over the green rectangular body.
+### Hat
+* Add a green trapezoid that overlaps the top of the tan circular head.
 
-## Hat
+### Hair
+* Add a darker brown trapezoid on top of the green hat trapezoid. This trapezoid should share the same bottom points as the hat trapezoid but be smaller overall.
+  
+### Eyes
+* Add two narrow brown rectangles symmetrically spaced on the tan circular head
+* Add two narrow green rectangles that partially overlap and are partially above the previous rectangles
 
-## Hair
+### Mouth
+* Add a brown rectangle close to the bottom of the brown rectangular head that is centered horizontally.
 
-## Eyes
+### Boots and Belt
+* Add two wide and short brown rectangles at the bottom of the green rectangular body.
+* Add a thin brown rectangle across the lower part of the green rectangular body
+* Add a rectangle thats slightly wider than a square on the center of the thing brown rectangular belt
 
-## Mouth
+### Arms
 
-## Boots and Belt
-
-## Arms
-
-## Hands
-
-## Triforce
-
-Cr
+### Triforce
+* Add a yellow equilateral triangle just above the green trapezoidal hat that reaches from one hand to the other hand
