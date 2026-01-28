@@ -1,4 +1,4 @@
-# Create your own Hero of Time
+# The Hero of Time
 ## Who is the Hero of Time 
 Link is the Hero of Time from the classis video game series the Legend of Zelda.
 The first Legend of Zelda debuted in the US in the late 80s on the Nintendo Entertainment System and the latest game in the main series The Legend of Zelda the tears of the Kingdom. All of the main series game center around the main character Link gaining the power of the Triforce to defeat evil and save the kingdom along with the princess Zelda. In each game link is prophecied as the Hero of Time for his ability to accomplish this heroic task <br>
@@ -10,8 +10,12 @@ The Nintendo Entertainment System (NES) is an 8-bit video game console. This aes
 <br>
   <img src="https://github.com/gmadhivanan/IMGD-5010---Assignment-2/blob/main/LinkTriforcep5js.png" width="230" height="200">
 The simple shapes in p5.js can be used to approximate the aesthetic of the original Legend of Zelda, and the colors can be duplicated using the eyedropper tool.
-To create the typical Link getting the Trifoce use the instructions as follows.
-
+To create Link getting the Trifoce use the instructions as follows:
+<br>
+<br>
+<details>
+<summary> <b>English Instructions for creating a Hero of Time</b> </summary>
+  
 ### Setup
 * Create a 400 by 400 panel that is the color of your choice
 * Remove the outline of all future shapes
@@ -44,3 +48,5 @@ To create the typical Link getting the Trifoce use the instructions as follows.
 
 ### Triforce
 * Add a tan equilateral triangle just above the green trapezoidal hat that reaches from one hand to the other hand
+
+</details>
