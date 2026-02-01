@@ -66,3 +66,19 @@ Start by positioning all of the shapes near to or in the center of your BG.
 The two caramel colored rectangles we made as the legs should ground the character, so place them where you would like the hero to stand. 
 
 Adjust the elements until you are satisfied with the look of your hero or use the reference image to emulate the shape placement shown there. 
+
+## Mae Response
+That's very cool!  Your instructions regarding shape and colour are clear.  The only part I struggled with was the size and positioning of the various shapes.  These were not as clear in your instructions but your reference image was very helpful.  I think if you picked one shape as an anchor and then used that as a reference to size and place the other shapes, it would have been easier.  For example, when creating Link's head, instead saying "add a tan circle where part of the lower segment...", it would have been clearer if it read something like "Add a tan circle that is slightly wider than the green rectangle and position it so that it just covers the top corners of the rectangle".
+
+## Caleb Response
+nice render, I think I can guess how most of the elements are created except for the hat, did you use hexagons for those?
+Gautam — 1/28/2026 11:31 PM
+I used quads for the hat. Hexagons would be interesting though. Might make it look more rounded
+Caleb Prouty — 1/28/2026 11:35 PM
+Oh nice, how difficult was it rotating elements?
+I found it somewhat frustrating as the function I used rotated the whole XY grid relative to the top left corner (imagine a door swinging open from above)
+And that made calculating what grid coordinates to place objects at difficult
+Gautam — 1/28/2026 11:37 PM
+I actually just put each of the 4 points where I wanted and I didn't have to rotate anything luckily. Yeah the rotate function sounds like a chore
+Caleb Prouty — 1/28/2026 11:38 PM
+nice that's smart, idk if I could do that with ellipses
